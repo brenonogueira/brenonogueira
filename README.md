@@ -16,8 +16,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 <br />
-  <br/>
-  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=brenonogueira&show_icons=true" alt="Breno Nogueira Araújo Github Stats"></img>
 </p>
 
