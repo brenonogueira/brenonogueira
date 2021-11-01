@@ -18,6 +18,8 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=brenonogueira&show_icons=true" alt="Breno Nogueira Araújo Github Stats"></img>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenonogueira)](https://github.com/brenonogueira/github-readme-stats)
+
 
 
 <h2>🚀 Algumas tecnologias que utilizo</h2>
