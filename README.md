@@ -6,11 +6,11 @@
 <a href="https://www.linkedin.com/in/brenongr/">
   <img align="left" alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/12148153276">
+<!-- <a href="https://open.spotify.com/user/12148153276">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira) -->
+![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 <br />
 
