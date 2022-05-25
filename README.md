@@ -6,15 +6,14 @@
 </a>
 <a href="https://www.linkedin.com/in/brenongr/">
   <img  alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
- 
+ </a>
   </p>
 
 
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact" />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
