@@ -11,6 +11,7 @@
 
 <br />
 
+Sou desenvolvedor full stack, com mais de 3 anos de experência na área de desenvolvimento de aplicações web assim como no desenvolvimento de APIs tanto quanto de aplicações front end.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
