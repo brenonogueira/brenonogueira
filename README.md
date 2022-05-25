@@ -11,14 +11,13 @@
 
 <br />
 
-Sou desenvolvedor full stack, com mais de 3 anos de experência na área de desenvolvimento de aplicações web assim como no desenvolvimento de APIs tanto quanto de aplicações front end.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <h2>🚀 Algumas tecnologias que utilizo</h2>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
