@@ -1,22 +1,20 @@
 
 
 <p align="center">
- <a href="https://twitter.com/brenongr">
-  <img alt="Breno Nogueira Araújo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/brenongr/">
-  <img  alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
- </a>
-  </p>
-
+  <a href="https://twitter.com/brenongr">
+   <img alt="Breno Nogueira Araújo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/brenongr/">
+   <img  alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+   <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)" />
+</p>
 
 <br />
 
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact" />
  </p>
- 
-![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 
 <h2 align="center">🚀 Algumas tecnologias que utilizo</h2>
