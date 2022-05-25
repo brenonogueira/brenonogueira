@@ -12,7 +12,7 @@
 <br />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
