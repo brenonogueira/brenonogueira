@@ -12,9 +12,10 @@
 
 <br />
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact" />
-
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact" />
+ </p>
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 
