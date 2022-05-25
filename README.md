@@ -1,11 +1,13 @@
 
 
-<a align="center" href="https://twitter.com/brenongr">
-  <img align="center" alt="Breno Nogueira Araújo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<p align="center">
+ <a href="https://twitter.com/brenongr">
+  <img align="left" alt="Breno Nogueira Araújo | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a align="center" href="https://www.linkedin.com/in/brenongr/">
-  <img align="center" alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/brenongr/">
+  <img align="left" alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  </p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
