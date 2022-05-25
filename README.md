@@ -15,6 +15,9 @@
 <br />
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenonogueira)](https://github.com/brenonogueira/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact&show_icons=true&theme=radical)
 )](https://github.com/brenonogueira/github-readme-stats)
 
