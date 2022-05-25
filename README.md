@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/brenongr/">
    <img  alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-   <img width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)" />
+   <img width="22px" src="https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira" />
 </p>
 
 <br />
