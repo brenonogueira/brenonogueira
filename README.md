@@ -16,7 +16,7 @@
 
 
 
-<h2>🚀 Algumas tecnologias que utilizo</h2>
+<h2 align="center">🚀 Algumas tecnologias que utilizo</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
