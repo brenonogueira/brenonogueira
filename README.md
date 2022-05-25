@@ -7,15 +7,16 @@
 <a href="https://www.linkedin.com/in/brenongr/">
   <img  alt="Breno's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+ 
   </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 <br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=brenonogueira.brenonogueira)
 
 
 <h2 align="center">🚀 Algumas tecnologias que utilizo</h2>
