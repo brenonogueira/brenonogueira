@@ -13,9 +13,10 @@
 <br />
 
 <p align="center">
-  <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&hide_progress=true"
-    />
+ <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brenonogueira&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
  </p>
 
 
