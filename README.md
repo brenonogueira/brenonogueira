@@ -13,7 +13,9 @@
 <br />
 
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&hide_progress=true)
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brenonogueira&hide_progress=true"
+    />
  </p>
 
 
