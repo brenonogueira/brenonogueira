@@ -28,7 +28,7 @@ Sou um desenvolvedor de software com mais de 4 anos de experiência, especializa
 - 🔬 **Pós-Graduação em Arquitetura de Software**
 
 ## 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenonogueira&show_icons=true&theme=dracula)
 
 ## 👥 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brenongr/)
